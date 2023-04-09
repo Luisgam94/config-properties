@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    legacy:
+      driver-class-name: org.postgresql.Driver
+      username: postgres-default
+      password: postgres-default
